@@ -1,0 +1,67 @@
+h1{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: big;
+    text-align:left;
+    color:palevioletred;
+    background-color: black;
+
+}
+ .destaque { font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palevioletred;
+    border: 3px
+
+ }
+    
+
+.caixa1{
+    background-color:palevioletred ;/* cor clara para visualizaçao */
+    margin: 10px; /* cria espaçamento externo de 20px em todos os lados */
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    overflow: scroll;
+    width: 200px;
+    height: 60px;
+    
+
+    
+}
+.caixa2{
+    background-color:palevioletred ;
+    margin-top: 50px;
+    margin-right: 51px;
+    margin-bottom: 15px;
+    margin-left: 35px;
+    padding: 50px;
+
+}
+
+.rodape{
+    position: fixed;
+    bottom:0; /* fixa na parte de baixo */
+    left:0;  /* inicia no canto esquerdo */
+    width: 100%; /* ocupa toda a largura da tela */
+    background-color: palevioletred;
+    text-align: center;
+    padding: 20px 0;
+}
+ 
+.rodape2{
+display: flex;
+flex-direction: column;
+min-width: 100wh;
+
+}
+.continuacao2{
+flex: 1;
+background: center;
+
+}
+.cont2{ 
+background-color: black;
+color: palevioletred;
+padding: 15px;
+text-align: center;
+
+}
