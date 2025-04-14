@@ -1,0 +1,11 @@
+header h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red
+}
+.bradesco p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:darkred;
+    padding: 50px;
+    border-radius: 50px;
+
+}
